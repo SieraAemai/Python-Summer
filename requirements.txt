@@ -2,3 +2,4 @@ pyAudio
 import pyttsx3
 SpeechRecognition
 gTTS
+openai
