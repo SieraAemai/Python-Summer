@@ -3,3 +3,4 @@ import pyttsx3
 SpeechRecognition
 gTTS
 openai
+python-dotenv
